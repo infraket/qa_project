@@ -1,5 +1,5 @@
 #### Cклонируйте проект в свой репозиторий ####
-  * ```git clone ```
+  * ```git clone  https://github.com/infraket/qa_project ```
 
 #### Установите необходимые для работы пакеты: ####
   * Установите Pytest: <br/> ```pip install pytest```
